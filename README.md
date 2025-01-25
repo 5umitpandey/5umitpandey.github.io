@@ -1,16 +1,12 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/5umitpandey/5umitpandey.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/5umitpandey/5umitpandey.github.io/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Personal Portfolio Website
+  Portfolio Website
 </h1>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/5umitpandey/5umitpandey.github.io/blob/master/src/images/demo.png" />
 </div>
 
 ### TL;DR
