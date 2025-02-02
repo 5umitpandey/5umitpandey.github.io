@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/5umitpandey/5umitpandey.github.io/blob/master/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   Portfolio Website
 </h1>
