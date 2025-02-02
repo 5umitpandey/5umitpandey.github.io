@@ -19,7 +19,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && git add . && git commit -m 'Deploying Gatsby build' && git push origin deployments",
+    "deploy": "gatsby build && gh-pages -d public -b deployments",
     "prepare": "husky install",
     "lint-staged": "lint-staged"
   },
