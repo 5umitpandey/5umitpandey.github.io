@@ -1,15 +1,15 @@
 ---
-date: '2023-11-20'
-title: 'Repositioning of Tata Structura in Retail'
-github: ''
-external: 'https://docs.google.com/presentation/d/1JjfyBadKZe2tgKaYhVG4DMDqIAtVOFSaxZpkZAkbGfk/edit?usp=sharing'
+date: '2022-11-20'
+title: 'English Premiere League'
+github: 'https://github.com/5umitpandey/Data_Science_Projects/blob/main/EPL20_21_GW4.ipynb'
+#external: 'https://docs.google.com/presentation/d/1JjfyBadKZe2tgKaYhVG4DMDqIAtVOFSaxZpkZAkbGfk/edit?usp=sharing'
 tech:
-  - Brand Repositioning
-  - Brand Elements
-  - Content Marketing
+  - EDA
+  - ML
+  - Python
 company: 'Project'
 showInProjects: true
 ---
 
-How to reposition hollow structural tubes brand in retail using its brand elements, content marketing, and several online/offline touchpoints
-
+Analyzed early 2020-2021 EPL season data to evaluate teams, predict outcomes. Used Expected Goals (xG) to assess performance, predict results, 
+with 7/9 accurate last-week predictions
