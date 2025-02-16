@@ -136,13 +136,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
+            Born in <b>Prayagraj</b> and raised in <b>Raigarh</b>, I pursued my Bachelor's degree in <b>Pune</b> and currently completing my Master's in <b>Patiala</b>. 
+            Throughout my journey, I've encountered diverse individuals and savored a variety of cuisines.
+            </p>
+            <p>
+              During my school years, I devoted much of my time to {' '}
+              <a href="https://drive.google.com/file/d/1hJTrI0_080oRWld3ijMuJE_lBVMZ_uZb/view?usp=sharing">Sports</a>, bringing home numerous laurels and trophies.
+              Later, I delved into the world of {' '}
+              <a href="https://drive.google.com/file/d/0BwBIeERidT3meVZpNU1QekZtRjA/view?usp=sharing&resourcekey=0-2-ifI7k4z8vd5Hdq8LoJCA">Robotics</a> and embarked on a journey in programming.
+            </p>
+            <p>
             With a core specialization in Analysis &amp; Data, I've orchestrated impactful
              strategies in Social Media during my internship for {' '}
              <a href="https://collegedunia.com/study-abroad">Study Abroad</a> {' '} at{' '} 
              <a href="https://collegedunia.com/">CollegeDunia</a>.
             </p>
 
-            <p>
+            {/* <p>
             I've also made some projects in the field of Exploratory Data Analysis like {' '}
             <a href="https://github.com/5umitpandey/Data_Science_Projects/blob/main/Uber_Trip_Analysis.ipynb">
               Uber Trip Analysis</a>, {' '} resulting in a remarkable output
@@ -153,7 +163,7 @@ const About = () => {
             And for my love for sports,  {' '} <a href="https://www.premierleague.com/">Premiere League</a>, {' '} 
             I built an EDA for English Premiere League Games, where I try to predict the next few fixtures: {' '} 
             <a href="https://github.com/5umitpandey/Data_Science_Projects/blob/main/EPL20_21_GW4.ipynb">Notebook</a>.
-            </p>
+            </p> */}
 
             <p>
             Moreover, You can watch a video about me at {' '} <a href="https://youtu.be/MeVBe_7xJoM">

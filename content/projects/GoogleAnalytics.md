@@ -1,14 +1,15 @@
 ---
-date: '2024-04-13'
-title: 'Google Analytics 4 (GA4)'
+date: '2020-10-13'
+title: 'IBM Data Science Professional Certificate'
 github: ''
-external: 'https://skillshop.credential.net/b378d522-b9ba-4610-8783-22b4a9f34332'
+external: 'https://drive.google.com/file/d/1ngstXQAuBFIy763x7uDLdODFIsuOr8Ur/view?usp=sharing'
 tech:
-  - GA4
-  - Digital Marketing
-  - Insight Generation
+  - Data Science
+  - SQL
+  - Python
 company: 'Certification'
-showInProjects: false
+showInProjects: true
 ---
 
-Understood how to set up and structure a property, and use various reporting tools and features for better marketing decisions
+
+Learned the tools, languages, and libraries used by professional data scientists, including Python and SQL, import and clean data sets, analyze and visualize data, and build machine learning models and pipelines.

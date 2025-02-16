@@ -1,14 +1,14 @@
 ---
-date: '2024-02-15'
-title: 'Google Ads Display'
+date: '2020-10-15'
+title: 'Google Analytics'
 github: ''
-external: 'https://skillshop.credential.net/9b32f9c9-0332-4b0d-982c-29a78b3d3e80'
+external: 'https://drive.google.com/file/d/1rptjzdF-bepZOzsruq2tI-EHiceMuG9T/view?usp=sharing'
 tech:
-  - Display Ads
-  - Digital Marketing
-  - Campaign
+  - Analytics
+  - Data
+  - Survey
 company: 'Certification'
-showInProjects: false
+showInProjects: true
 ---
 
-Understood to develop effective Display Ads strategies and campaigns that achieve specific marketing goals like awareness, action, retention, and budget
+Data, data analysis, and data ecosystems, analytical thinking, data in the decision-making process, identify risks to data integrity, data visualizations, pipes, and vectors.
