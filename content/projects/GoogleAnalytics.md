@@ -1,14 +1,14 @@
 ---
-date: '2024-04-13'
-title: 'Google Analytics 4 (GA4)'
+date: '2024-10-15'
+title: 'Google Analytics Certificate'
 github: ''
-external: 'https://skillshop.credential.net/b378d522-b9ba-4610-8783-22b4a9f34332'
+external: 'https://drive.google.com/file/d/1rptjzdF-bepZOzsruq2tI-EHiceMuG9T/view?usp=sharing'
 tech:
-  - GA4
-  - Digital Marketing
-  - Insight Generation
+  - Analytics
+  - Data
+  - Survey
 company: 'Certification'
-showInProjects: false
+showInProjects: true
 ---
 
-Understood how to set up and structure a property, and use various reporting tools and features for better marketing decisions
+Data, data analysis, and data ecosystems, analytical thinking, data in the decision-making process, identify risks to data integrity, data visualizations, pipes, and vectors.

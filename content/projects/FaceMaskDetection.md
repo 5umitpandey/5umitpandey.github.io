@@ -1,16 +1,15 @@
 ---
-date: '2020-05-20'
-title: 'Face Mask Detection using Deep Learning'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49'
+date: '1'
+title: 'Face Mask Detection'
+#cover: './yash.png'
+github: 'https://github.com/5umitpandey/Realtime-Face-Mask-Detection'
+#external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
 tech:
-  - TensorFlow
-  - Keras
+  - Python
   - OpenCV
-  - MobileNetV2
-company: 'Project'
-showInProjects: true
+  - Keras
+  - Scipy
+  - TensorFlow
 ---
 
-A prototype to detect the presence of face masks in static images as well as in real-time video streams which was an essential in Covid era
-
+This program is capable of scanning multiple faces simultaneously and provides an accuracy score for each **User's Mask Usage**, ranging from 0 to 100.
