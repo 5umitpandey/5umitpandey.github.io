@@ -3,7 +3,7 @@ date: '2025-07-05'
 title: 'Machine Learning Summer of School'
 company: 'Amazon'
 location: 'Remote'
-range: 'July 2025 - August 2025'
+range: 'August 2025 - October 2025'
 url: 'https://amazonmlsummerschoolindia.splashthat.com/'
 ---
 
@@ -11,4 +11,4 @@ url: 'https://amazonmlsummerschoolindia.splashthat.com/'
 - Gained hands-on experience in advanced ML concepts, real-world problem solving, and industry-level projects.
 - Collaborated with peers and mentors from Amazon to implement scalable and optimized AI/ML solutions.
 
-<!--<a href="https://drive.google.com/file/d/13JIqjaHOUrtuvDm94VSgcqxPEj03s151/view?usp=sharing">Certificate</a>-->
+<a href="https://drive.google.com/drive/folders/1aHeaIhVd8t3T2nC2Tn1WjFa15-Sxhg7P?usp=sharing">Certificate</a>

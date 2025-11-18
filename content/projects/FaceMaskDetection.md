@@ -10,6 +10,7 @@ tech:
   - Keras
   - Scipy
   - TensorFlow
+company: 'Project'
 ---
 
 This program is capable of scanning multiple faces simultaneously and provides an accuracy score for each **User's Mask Usage**, ranging from 0 to 100.

@@ -11,5 +11,6 @@ company: 'Project'
 showInProjects: true
 ---
 
-Analyzed early 2020-2021 EPL season data to evaluate teams, predict outcomes. Used Expected Goals (xG) to assess performance, predict results, 
-with 7/9 accurate last-week predictions
+• Analyzed early 2020-2021 EPL season data to evaluate teams, predict outcomes. 
+<br><br>
+• Used Expected Goals (xG) to assess performance, predict results, with 7/9 accurate last-week predictions

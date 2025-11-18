@@ -11,5 +11,5 @@ company: 'Project'
 showInProjects: true
 ---
 
-Studied Uber data, found trends in 444 trips (2016-2021).
-<br><br>2019-2020: Dipped by 51% rides; COVID impact.
+• Studied Uber data, found trends in 444 trips (2016-2021).
+<br><br>• 2019-2020: Dipped by 51% rides; COVID impact.

@@ -265,7 +265,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Projects  &  Certifications</h2>
+      <h2 ref={revealTitle}>Virtual Internships, Certification & Achievements</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         View Archive

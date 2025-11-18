@@ -10,6 +10,7 @@ tech:
   - Matplotlib
   - Seaborn
   - Sklearn
+company: 'Project'
 ---
 
 This project aims to predict how risk factors and other features might affect **Cancer Mortality artes of US Counties**.

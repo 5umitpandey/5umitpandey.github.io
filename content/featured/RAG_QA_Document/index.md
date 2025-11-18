@@ -3,7 +3,7 @@ date: '1'
 title: 'Secure & Intelligent Q&A System'
 cover: './RAG_Cover.png'
 github: 'https://github.com/5umitpandey/Intelligent_Q-A_System_with_RAG'
-#external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
+external: 'https://www.kaggle.com/code/itsyoursumit/secure-intelligent-q-a-system-rag-llm/'
 tech:
   - Python
   - ML

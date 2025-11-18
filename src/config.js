@@ -22,10 +22,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/5umitpandey',
     },
-    // {
-    //   name: 'CodeChef',
-    //   url: 'https://www.codechef.com/users/tetnf',
-    // },
+    {
+      name: 'Kaggle',
+      url: 'https://www.kaggle.com/itsyoursumit',
+    },
     // {
     //   name: 'GeeksForGeeks',
     //   url: 'https://www.geeksforgeeks.org/user/5umitpandey/',
