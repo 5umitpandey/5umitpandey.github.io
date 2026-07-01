@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['AI/ML', 'Python', 'C++', 'SQL', 'Power BI', 'AWS', 'MS Excel', 'Data Analysis', 'Linux', 'Git'];
+  const skills = [ 'Python', 'PyTorch', 'TensorFlow', 'Hugging Face', 'LLMs', 'Prompt Engineering', 'OpenAI API', 'Generative AI', 'Vector Databases', 'RAG', 'LangChain', 'LangGraph', 'AI Agents' ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Born in <b>Prayagraj</b> and raised in <b>Raigarh</b>, I pursued my Bachelor's degree in <b>Pune</b> and currently completing my Master's in <b>Patiala</b>. 
+            Born in <b>Prayagraj</b> and raised in <b>Raigarh</b>, I pursued my Bachelor's degree in <b>Pune</b> and completed my Master's in <b>Patiala</b>. 
             Throughout my journey, I've encountered diverse individuals and savored a variety of cuisines.
             </p>
             <p>
@@ -145,10 +145,10 @@ const About = () => {
               <a href="https://drive.google.com/file/d/0BwBIeERidT3meVZpNU1QekZtRjA/view?usp=sharing&resourcekey=0-2-ifI7k4z8vd5Hdq8LoJCA">Robotics</a> and embarked on a journey in programming.
             </p>
             <p>
-            With a core specialization in Analysis &amp; Data, I've orchestrated impactful
-             strategies in Social Media during my internship for {' '}
-             <a href="https://collegedunia.com/study-abroad">Study Abroad</a> {' '} at{' '} 
-             <a href="https://collegedunia.com/">CollegeDunia</a>.
+              With a core specialization in Analysis &amp; Data, I've worked across Data Analytics and AI through internships and apprenticeships. I contributed to Social Media strategy during my internship for{' '}
+              <a href="https://collegedunia.com/study-abroad">Study Abroad</a>{' '}
+              at{' '}
+              <a href="https://collegedunia.com/">CollegeDunia</a>, completed a Data Analyst Apprenticeship at Vodafone, and an AI Internship at IBM, gaining hands on experience in data driven decision making and modern AI technologies.
             </p>
 
             {/* <p>
